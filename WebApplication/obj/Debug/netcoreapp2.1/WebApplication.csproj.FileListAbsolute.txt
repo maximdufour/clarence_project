@@ -30,3 +30,8 @@ C:\Github\clarence_project\WebApplication\obj\Debug\netcoreapp2.1\WebApplication
 C:\Github\clarence_project\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.dll
 C:\Github\clarence_project\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.pdb
 C:\Github\clarence_project\WebApplication\obj\Debug\netcoreapp2.1\WebApplication.csproj.CopyComplete
+C:\Github\clarence_project\WebApplication\obj\Debug\netcoreapp2.1\Razor\Pages\Joueurs\Create.g.cshtml.cs
+C:\Github\clarence_project\WebApplication\obj\Debug\netcoreapp2.1\Razor\Pages\Joueurs\Delete.g.cshtml.cs
+C:\Github\clarence_project\WebApplication\obj\Debug\netcoreapp2.1\Razor\Pages\Joueurs\Details.g.cshtml.cs
+C:\Github\clarence_project\WebApplication\obj\Debug\netcoreapp2.1\Razor\Pages\Joueurs\Edit.g.cshtml.cs
+C:\Github\clarence_project\WebApplication\obj\Debug\netcoreapp2.1\Razor\Pages\Joueurs\Index.g.cshtml.cs
